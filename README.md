@@ -19,8 +19,6 @@
   <img align="center" alt="bruna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-![snake gif](https://github.com/brunasiaovn/brunasiaovn/blob/output/github-contribution-grid-snake.svg)
- 
 <div align="center"> 
 <a href="https://instagram.com/siavon.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:bruna.dev@hotmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
