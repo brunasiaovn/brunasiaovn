@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+Meu+nome+é+Bruna+Novais;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 
-- 🌱 Iniciante aprendendo desenvolvimento web <img align="right" alt="Bruna" height="150em" width="150em" src="https://media.discordapp.net/attachments/805220480566165514/1143905030819295332/2fc4a8b8-fefc-488e-8451-d74ea820b6ea.jpg?width=441&height=441" />
+- 🌱 Iniciante aprendendo desenvolvimento web <img align="right" width=500 alt="GIF" src="https://github.com/lvasantos/lvasantos/assets/82406248/f1d03dee-2ffb-4477-ab95-aa8193a5e95a">
 - ⚡ Futura dev
 
 
@@ -12,7 +12,8 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunasiaovn&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
   
 </div>
-  <div style="display: inline_block"><br>
+
+  <div align="center" style="display: inline_block"><br>
   <img align="center" alt="bruna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="bruna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="bruna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
