@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=O+sucesso+nem+sempre+é+uma;questão+de+grandeza,+é+uma;questão+de+consistência+!;Dwayne+"The+Rock"+Johnson:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=O+sucesso+nem+sempre+é+uma;questão+de+grandeza,+é+uma;questão+de+consistência+!;Dwayne+"The+Rock"+Johnson+:%29)](https://git.io/typing-svg)
 
 - 🌱 Iniciante aprendendo desenvolvimento web <img align="right" width=500 alt="GIF" src="https://github.com/lvasantos/lvasantos/assets/82406248/f1d03dee-2ffb-4477-ab95-aa8193a5e95a">
 - ⚡ Futura dev
