@@ -19,7 +19,7 @@
   <img align="left" alt="bruna-Ts" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="left" alt="bruna-node" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="left" alt="bruna-express" height ="30" width="40" src="https://skillicons.dev/icons?i=express">
-  <img align="left" alt="bruna-mongodb" height ="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+  <img align="left" alt="bruna-mongodb" height ="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="left" alt="bruna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" alt="bruna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="left" alt="bruna-git" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
