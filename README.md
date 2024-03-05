@@ -14,6 +14,7 @@
 <h4> Linguagens e Ferramentas atuais</h4>
 
   <div align="left" style="display: inline_block"><br>
+
   <img align="left" alt="bruna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="left" alt="bruna-Ts" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="left" alt="bruna-node" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
@@ -22,9 +23,9 @@
   <img align="left" alt="bruna-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="left" alt="bruna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="left" alt="bruna-git" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="left" alt="bruna-java" height ="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-
-  <img align="left" alt="bruna-vscode" height="40" width="40" src="https://cdn.simpleicons.org/visualstudiocode/007ACC">
+  <img align="left" alt="bruna-java" height ="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   <img align="left" alt="bruna-vscode" height="30" width="40" src="https://cdn.simpleicons.org/visualstudiocode/007ACC">
+   <img align="left" alt="bruna-github" height="30" width="40" src="https://skillicons.dev/icons?i=github">
 </div>
 
 ##
