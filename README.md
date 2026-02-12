@@ -2,15 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=O+sucesso+nem+sempre+é+uma;questão+de+grandeza,+é+uma;questão+de+consistência+!;Dwayne+"The+Rock"+Johnson+:%29)](https://git.io/typing-svg)
 
-- 🌱 Iniciante aprendendo desenvolvimento web <img align="right" width=500 alt="GIF" src="https://github.com/lvasantos/lvasantos/assets/82406248/f1d03dee-2ffb-4477-ab95-aa8193a5e95a">
-- ⚡ Futura dev
+ 🌱 <img align="right" width=500 alt="GIF" src="https://github.com/lvasantos/lvasantos/assets/82406248/f1d03dee-2ffb-4477-ab95-aa8193a5e95a">
 
 
-<div align="center">  
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunasiaovn&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-  
-</div>
+
 <h4> Linguagens e Ferramentas atuais</h4>
 
   <div align="left" style="display: inline_block"><br>
@@ -24,7 +19,6 @@
   <img align="left" alt="bruna-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="left" alt="bruna-git" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="left" alt="bruna-java" height ="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-   <img align="left" alt="bruna-vscode" height="30" width="40" src="https://cdn.simpleicons.org/visualstudiocode/007ACC">
    <img align="left" alt="bruna-github" height="30" width="40" src="https://skillicons.dev/icons?i=github">
 </div>
 
