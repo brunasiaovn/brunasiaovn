@@ -6,8 +6,6 @@
 
 
 
-<h4> Linguagens e Ferramentas atuais</h4>
-
   <div align="left" style="display: inline_block"><br>
 
   <img align="left" alt="bruna-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
